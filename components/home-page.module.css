@@ -1,0 +1,11 @@
+.main{
+    text-align: center;
+    width: 80%;
+    margin: 10px auto;
+    
+}
+
+.main input{
+    width: 100%;
+    height: 40px;
+}

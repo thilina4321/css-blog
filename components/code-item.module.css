@@ -1,0 +1,21 @@
+.item{
+    width: 80%;
+    
+    margin: 10px auto;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0 2px 2px 4px rgb(255, 255, 255, 0.26);
+    margin-bottom: 50px;
+}
+
+.item img{
+    height: 100%;
+    width: 100%;
+    object-fit: contain;
+}
+
+@media screen and (max-width:480px){
+    .item{
+        width: 98%;
+    }
+}
