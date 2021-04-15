@@ -7,7 +7,7 @@ const allData = [
   {
     name: "Image Fit",
     codeImage: "/images/image-fit.PNG",
-    description: "How to fit image in to a box",
+    description: "How to fit image in to a any size user define",
   },
 ];
 
