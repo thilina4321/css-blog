@@ -17,3 +17,29 @@ a {
 * {
   box-sizing: border-box;
 }
+
+.section{
+  display: flex;
+  flex-wrap: wrap;
+  margin: 10px auto;
+  justify-content: center;
+  align-items: center;
+  width: 80%;
+  gap: 20px;
+
+}
+
+.item{
+  display: flex;
+  flex: 1;
+  margin: 10px auto;
+  padding: 20px;
+  justify-content: center;
+  align-items: center;
+  min-width: 300px;
+  box-shadow: 0 2px 2px 4px rgb(255, 255, 255, 0.26);
+  margin-bottom: 50px;
+  cursor: pointer;
+}
+
+

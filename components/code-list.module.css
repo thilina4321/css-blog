@@ -1,0 +1,9 @@
+.item{
+    display: flex;
+    flex-wrap: wrap;
+    min-width: 300px;
+    margin: 10px auto;
+    justify-content: center;
+    align-items: center;
+    width: 80%;
+}
